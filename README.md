@@ -1,6 +1,6 @@
 # Que es Html
 
-**El paso Incial**
+**El paso Inicial**
 Es el lenguaje base para la web
 - H		(Hyper)
 - T		(Text)
@@ -16,7 +16,7 @@ Markup
 ## Hay lengujes 
 - Interpretado
 - Transpilado
-Html es un leguaje Interpretado
+Html es un lenguaje interpretado
 
 ## Hipertexto
 
@@ -24,11 +24,11 @@ Se basa en la vinculación de fragmentos textuales o gráficos a otros fragmento
 [Haz Click](#foo)
 
 ## La Web
-Es unconjunto de documentos HTML enlazados atravez de hipertextos
+Es un conjunto de documentos HTML enlazados atraves de hipertextos
 
 - URL -> Uniform Resource Locator
 	-- 
-- Http -> Hyper Text Transfer Protocol
+- Http -> Hyper Text Transfer protocolo
 	-- Es un protoco de transferencia de Hipertexto
 - HTML -> Hypertext Markup Language 
 	-- 
@@ -68,21 +68,26 @@ Web Semántica
 > El marcado tiene un significado, (div p y a) a (header, section, article)
 
 Local Storage
-> Acceso Ofline
+> Acceso Offline
 
-Acceso al dispositivo
-> Acceder al microfono o la camara
+Acceso sin conexión al dispositivo
+
+> Acceder al micrófono o la cámara
 
 Web sockets
-> Comunicacion abierta bidireccional con el servidor 
+
+> Comunicación abierta bidireccional con el servidor 
 
 Multimedia
+
 > Video, audio
 
 Gráficos (SVG, Canvas, WebGL)
+
 > Avanzados con el navegador
 
 Web workers
+
 > Segundo proceso del navegador
 
 CSS3 **
