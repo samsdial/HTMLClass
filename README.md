@@ -50,17 +50,17 @@ Markup
 # Historia del Html
 
 [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee)
-1989 Inicio del desarrollo
-1991 lanzamiento de la web
-1992 Lanzamiento de HTML
-1994 Creación W3C
-1998 HTML 4
-1999 HTML 4.01 - XHTML
-2004 WHATWG
-2008 HTML 5
-2014 Recomendación HTML 5
-2016 HTML 5.1
-2017 HTML 5.2
+- 1989 Inicio del desarrollo
+- 1991 lanzamiento de la web
+- 1992 Lanzamiento de HTML
+- 1994 Creación W3C
+- 1998 HTML 4
+- 1999 HTML 4.01 - XHTML
+- 2004 WHATWG
+- 2008 HTML 5
+- 2014 Recomendación HTML 5
+- 2016 HTML 5.1
+- 2017 HTML 5.2
 
 ## HTML 5
 
